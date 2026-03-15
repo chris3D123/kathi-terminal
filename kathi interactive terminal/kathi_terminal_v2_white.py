@@ -53,20 +53,18 @@ def input_box(prompt):
     root.wait_window(temp_window)
     return temp_var.get()
 
-# Setting up the tkinter window
+
 root = tk.Tk()
 root.title("KATHI Admin Terminal")
 
-# Terminal-like output area
+
 terminal_output = scrolledtext.ScrolledText(root, wrap=tk.WORD, height=20, width=60)
 terminal_output.pack(padx=10, pady=10)
 
-# Entry box for commands
 command_input = tk.Entry(root, width=60)
 command_input.pack(padx=10, pady=5)
 command_input.bind("<Return>", lambda event: execute_command())
 
-# Execute button
 execute_button = tk.Button(root, text="Execute Command", command=execute_command)
 execute_button.pack(pady=5)
 
