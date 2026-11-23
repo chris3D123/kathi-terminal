@@ -19,7 +19,7 @@ The KATHI TERMINAL is virtual terminal that can run and create text files this v
  
 <img width="256" height="256" alt="kathi mascot" src="https://github.com/user-attachments/assets/3e488b04-7033-4395-b124-f555519c5048" />   
 
-made by CH0!F!SH    
+Mascot artwork by CH0!F!SH    
 
 
 
