@@ -1,9 +1,15 @@
-V1
-V1 runs in the terminal like any other of my projects
+KATHI TERMINAL
 
-v2_black and v2_white
-(they are the same thing just different colors)
-These files run in ‘Tkinter’. You can type the commands in the bottom prompt there im multiple commands such ‘TC admin’ which will preform a terminal check. You can type a command called ‘NF admin’ which will let you create a new file. You can type in a command called ‘RF admin’ which will run a file of your choice. You can type in a command called ‘h admin’ which will show all the available commands.
+The KATHI TERMINAL is virtual terminal that can run and create text files this version is meant to act as a skeleton for the future versions to come 
 
+UPDATES
 
-(will be updated soon)
+-Dec 25, 2026 Christmas Update
+  -MAJOR UPDATES
+      -A full revamp of the command read system and the core of the system
+      -Will be adding a new plugin system (only usable with CK modules
+      -New mascot named KATHI RAVEN
+      -More base commands
+      -full revamp of the UI (maybe)
+  -MINOR UPDATES
+    -literally nothing
