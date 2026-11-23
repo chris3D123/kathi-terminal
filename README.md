@@ -10,6 +10,7 @@ The KATHI TERMINAL is virtual terminal that can run and create text files this v
       • Will be adding a new plugin system (only usable with CK modules) 
       • more base commands  
       • full revamp of the UI (maybe)  
+      • Fixed bootup
     
 
 
